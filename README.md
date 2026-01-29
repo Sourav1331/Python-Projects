@@ -1,1 +1,1 @@
-Some of the projects I created while learning Python.
+**Some of the projects I created while learning Python.**
